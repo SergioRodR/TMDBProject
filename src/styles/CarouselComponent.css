@@ -1,0 +1,31 @@
+.carousel-item img {
+  object-fit: cover;
+}
+
+@media (max-width: 767.98px) {
+  .carousel-item img {
+    height: auto;
+  }
+}
+
+.marginContainer{
+  margin-top: .5rem;
+  margin-bottom: 2rem;
+}
+
+.effectImg{
+  box-shadow: 10px 19px 33px black
+}
+
+.titleMovie{
+  color: floralwhite;
+}
+
+.descMovie{
+  color: floralwhite;
+}
+
+/* .backCarousel{
+  background-color: rgba(0, 0, 0, 0.726);
+  padding: 3%;
+} */
